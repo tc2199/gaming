@@ -1,0 +1,94 @@
+html,head{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(14, 51, 69, 0.237);
+    
+}
+
+#nav{
+    height: auto;
+    width: auto;
+   border-radius: 8px;
+    background-color:black;
+    position: relative;
+    align-items: center;
+    margin-top: -6px;
+    }
+#right{
+    float: right;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+#lis{
+    color: whitesmoke;
+    font-family: cursive;
+    margin-left: 30px;
+}
+
+#imag{
+    height: 70px;
+    width: 100px;
+}
+
+#image{
+    height: 100px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+#sold{
+    height: 600px;
+    width: 400px;
+    float: right;
+    margin-top: -80px;
+    opacity: 70%;
+}
+
+
+#head{
+    margin-left: 30px;
+    margin-top: 150px;
+    
+}
+#par{
+    margin-left: 30px;
+    
+}
+
+#button{
+    align-items: center;
+    height: 25px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 15px;
+    margin-left: 30px; 
+    cursor: pointer;   
+}
+#buttonb {
+    
+    margin-left: 7px;
+    
+}
+
+#bottom{
+    height: auto;
+    width: auto;
+    background-color: black;
+    margin-top: 220px;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+#first{
+    font-size: larger;
+    font-style: italic;
+}
+#second{
+    font-style: italic;
+
+}
+    
+
